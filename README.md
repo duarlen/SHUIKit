@@ -1,6 +1,6 @@
 # SHUIKit
 
-[![CI Status](https://img.shields.io/travis/dulinshun/SHUIKit.svg?style=flat)](https://travis-ci.org/dulinshun/SHUIKit)
+[![CI Status](https://img.shields.io/travis/duarlen/SHUIKit.svg?style=flat)](https://travis-ci.org/duarlen/SHUIKit)
 [![Version](https://img.shields.io/cocoapods/v/SHUIKit.svg?style=flat)](https://cocoapods.org/pods/SHUIKit)
 [![License](https://img.shields.io/cocoapods/l/SHUIKit.svg?style=flat)](https://cocoapods.org/pods/SHUIKit)
 [![Platform](https://img.shields.io/cocoapods/p/SHUIKit.svg?style=flat)](https://cocoapods.org/pods/SHUIKit)
@@ -22,7 +22,7 @@ pod 'SHUIKit'
 
 ## Author
 
-dulinshun, duls@shinemo.com
+duarlen, duls@shinemo.com
 
 ## License
 

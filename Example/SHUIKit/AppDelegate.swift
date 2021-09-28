@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  SHUIKit
 //
-//  Created by dulinshun on 09/28/2021.
-//  Copyright (c) 2021 dulinshun. All rights reserved.
+//  Created by duarlen on 09/28/2021.
+//  Copyright (c) 2021 duarlen. All rights reserved.
 //
 
 import UIKit
@@ -13,9 +13,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
 
-
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+        
+        window = UIWindow(frame: UIScreen.main.bounds)
+        window?.backgroundColor = .white
+        window?.makeKeyAndVisible()
+        window?.rootViewController = TabBarController()
+        
         return true
     }
 

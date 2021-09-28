@@ -1,0 +1,6 @@
+framework module SHUIKit {
+  umbrella header "SHUIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

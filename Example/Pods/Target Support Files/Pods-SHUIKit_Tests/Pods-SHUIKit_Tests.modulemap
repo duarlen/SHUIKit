@@ -1,0 +1,6 @@
+framework module Pods_SHUIKit_Tests {
+  umbrella header "Pods-SHUIKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
